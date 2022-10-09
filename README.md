@@ -8,10 +8,13 @@ Dataset file: https://www.kaggle.com/c/titanic
 
 
 # Heart_Disease_Prediction_Model
-Introduction
+
+## Introduction
+
 Developed the Heart Disease Prediction system using Machine Learning with Python.
 
-Problem Statement
+## Problem Statement
+
 The objective of this project is to build a prediction model to predict whether a person have heart disease or not.
 
 Dataset File: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
