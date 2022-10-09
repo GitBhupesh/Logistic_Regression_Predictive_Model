@@ -5,3 +5,13 @@ Logistic regression is a supervised machine learning algorithm that accomplishes
 Titanic Survival Prediction using Machine Learning with Python. This is one of the important and standard Machine Learning Projects. For this Project, I have used Logistic regression model.
 
 Dataset file: https://www.kaggle.com/c/titanic
+
+
+# Heart_Disease_Prediction_Model
+Introduction
+Developed the Heart Disease Prediction system using Machine Learning with Python.
+
+Problem Statement
+The objective of this project is to build a prediction model to predict whether a person have heart disease or not.
+
+Dataset File: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
