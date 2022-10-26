@@ -6,8 +6,9 @@ Titanic Survival Prediction using Machine Learning with Python. This is one of t
 
 Dataset file: https://www.kaggle.com/c/titanic
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Heart_Disease_Prediction_Model
+# Heart Disease Prediction Model
 
 ## Introduction
 
@@ -18,3 +19,17 @@ Developed the Heart Disease Prediction system using Machine Learning with Python
 The objective of this project is to build a prediction model to predict whether a person have heart disease or not.
 
 Dataset File: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Loan Status Prediction
+
+## Introduction
+
+Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customer first apply for home loan after that company validates the customer eligibility for loan.
+
+## Problem Statement
+
+Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form.
+
+Dataset File: https://www.kaggle.com/datasets/ninzaami/loan-predication
